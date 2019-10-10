@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+Clay's first html
+<title>First timer</title>
+</head>
+<body>
+<h1> Mao niy first nakong heading. Okayu?</h1>
+<h2> Mao niy second heading. Okayu? </h2>
+<h3> Mao niy third heading. Okayu? </h3
+
+<p>Mao niy first nakong paragraph. Okayu?</p>
+<p>Mao niy second paragraph. Okayu?</p>
+<a href="https://www.google.com">Click here para mo bright sad ka gamay</a>
+<p> Tan-awa unsa ka chix ang mga korean hahaha hehehe </p>
+<img src="korean.png" alt="korean.com width="104" height="142">
+<button> Click here to get one korean chix </button>
+<ul> 
+<li> Order numba 1 </li>
+<li> Order numba 2 </li>
+<li> Order numba 3 </li>
+<li> Order numba 4 the last one bitch </li>
+<p>Testing sa <br> paragraph nga naay break. </p>
+</body>
+</html>
